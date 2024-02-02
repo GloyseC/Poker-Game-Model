@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./RL-Poker/src/neuron-poker",
+        "./RL-Poker/src/neuron-poker"
+    ]
+}
